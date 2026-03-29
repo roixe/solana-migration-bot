@@ -1,7 +1,0 @@
-node_modules/
-.env
-pnl.json
-positions.json
-trades.json
-blacklist.json
-*.log
