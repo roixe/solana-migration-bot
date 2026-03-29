@@ -1,3 +1,6 @@
+> 🛒 **[Get full source code on Gumroad — $39] https://eroixe.gumroad.com/l/xkzwwd**
+
+
 # solana-migration-bot
 
 A high-performance Solana trading bot that automatically detects and trades tokens migrating from pump.fun to the Raydium pump-amm pool.
